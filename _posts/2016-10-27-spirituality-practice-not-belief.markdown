@@ -17,4 +17,4 @@ and, just as i was having that thought... she dropped this:
 
 bam. totally same lane as me. i loved her leaning into the framing of spirituality as a practice. practice is action based ([similar to love](http://lqb2quotes.tumblr.com/post/150233304527/love-is-an-action-a-participatory-emotion)). given how i've seen christianity (and many other religions) be destructive, i wonder if this way of thinking about spirituality and spiritual differences would allow a much more healthy coexistence of multiple religions/spiritual practices... i know for me, i don't particularly care what you believe, as long as it impacts your life and the world positively.
 
-hm.
+hm. hmmmmmm.
