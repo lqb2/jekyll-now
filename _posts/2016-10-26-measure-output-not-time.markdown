@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "measure output, not time: full-time versus full-focus"
-date:   2016-10-25 06:22:28 -0400
+date:   2016-10-26 06:22:28 -0400
 categories: jekyll update
 ---
 let's be honest: time management fails knowledge workers (i wrote about a piece of this [over here](http://lqb2writes.tumblr.com/post/150257590497/the-afternoon-slump-is-normal-work-with-it-not). anyone who has worked a desk job is keenly aware of this. it shows up in all sorts of ways. dragging out or procrastinating on simple tasks and being overworked despite a clearly defined set of deliverables are just two examples.
