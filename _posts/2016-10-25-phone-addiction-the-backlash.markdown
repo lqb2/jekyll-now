@@ -4,7 +4,7 @@ title:  "phone addiction: the backlash"
 date:   2016-10-25 06:08:28 -0400
 categories: jekyll update
 ---
-a few days, [ross](twitter.com/rchanowski) shared a pretty epic article with me called [binge breaker](https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/). the subject of the piece, tristan harris, is in line with thinking i've been doing on technology for a while. having read sherry turkle's [alone together](https://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463) in undergrad, people's addiction to their phones became a bit of an obsession (is it weird to be addicted to people being addicted? lol). i was so into it that it shaped all of my photography [in college](lawrencebarrinerii.com/art) and has shaped [some of it](peopleonphonesinpublicorprivate.tumblr.com) since.
+a few days ago, [ross](twitter.com/rchanowski) shared a pretty epic article with me called [binge breaker](https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/). the subject of the piece, tristan harris, is in line with thinking i've been doing on technology for a while. having read sherry turkle's [alone together](https://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463) in undergrad, people's addiction to their phones became a bit of an obsession (is it weird to be addicted to people being addicted? lol). i was so into it that it shaped all of my photography [in college](lawrencebarrinerii.com/art) and has shaped [some of it](peopleonphonesinpublicorprivate.tumblr.com) since.
 
 ![#alonetogether](https://static1.squarespace.com/static/527fdb09e4b0a82a76942ecf/527fe6a8e4b096cf32d53fb6/527fe6e4e4b05645e634f9cd/1434390263061/Slide+1.jpg?format=1500w)
 
