@@ -10,9 +10,9 @@ this [resilience book](http://www.resiliencethebook.com) is pretty dope. the cha
 
 they break it down in the chapter differently, but here are the parts of that that seem critical to me:
 
-the team needs to be small enough to not have to coordinate too many pieces. in the last few years of my career, i've seen this play out as logisitical coordination RE calendars and locations to meet, but it can show up in other ways, too.
-actual and cognitive diversity are really important. they give a team the ability to think deep and wide and make breakthroughs in ways that teams that are too similar can't.
-the team members need to be strongly tied. this means that, even though they should have different cognitive abilities, they should be similar enough to work well together. there's nothing worse than having a dysfunctional team. in fact, i often tell my friends that if their relationship with their boss isn't a good one, the awesomeness of the work their doing isn't worth staying. it's a pattern i've seen over and over. but i digress...
-each team member should have a large and diverse network (i.e. many weak ties). this allows the core team to have access to knowledge resources without needing to have them all in house.
+1. the team needs to be small enough to not have to coordinate too many pieces. in the last few years of my career, i've seen this play out as logisitical coordination RE calendars and locations to meet, but it can show up in other ways, too.
+1. actual and cognitive diversity are really important. they give a team the ability to think deep and wide and make breakthroughs in ways that teams that are too similar can't.
+1. the team members need to be strongly tied. this means that, even though they should have different cognitive abilities, they should be similar enough to work well together. there's nothing worse than having a dysfunctional team. in fact, i often tell my friends that if their relationship with their boss isn't a good one, the awesomeness of the work their doing isn't worth staying. it's a pattern i've seen over and over. but i digress...
+1. each team member should have a large and diverse network (i.e. many weak ties). this allows the core team to have access to knowledge resources without needing to have them all in house.
 the more i think about it, the more i think these four points are how to make the world a more beautiful, functional place, while also shifting some of the terror that is the large corporation. maybe this thinking could/should play out in how we structure our social lives and physical communities as well.
 hm!
