@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 this [resilience book](http://www.resiliencethebook.com) is pretty dope. the chapter that i'm in now is about resilience groups and teams. after lots of different cases and data, they make this claim about teams (page 187):
 
-> "The most powerful constellation seems to be to have small, diverse teams of strongly tied collaborators, who each have a large and diverse weak-tie network —— the best of both worlds."
+> "The most powerful constellation seems to be to have small, diverse teams of strongly tied collaborators, who each have a large and diverse weak-tie network — the best of both worlds."
 
 they break it down in the chapter differently, but here are the parts of that that seem critical to me:
 
