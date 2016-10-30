@@ -21,6 +21,7 @@ actual and cognitive diversity are really important. they give a team the abilit
 ## strongly-tied
 
 the team members need to be strongly tied. this means that, even though they should have different cognitive abilities, they should be similar enough to work well together. there's nothing worse than having a dysfunctional team. in fact, i often tell my friends that if their relationship with their boss isn't a good one, the awesomeness of the work their doing isn't worth staying. it's a pattern i've seen over and over. but i digress...
+
 ## with many weak-ties
 
 each team member should have a large and diverse network (i.e. many weak ties). this allows the core team to have access to knowledge resources without needing to have them all in house.
