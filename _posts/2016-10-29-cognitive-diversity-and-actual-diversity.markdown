@@ -4,7 +4,7 @@ title:  "cognitive diversity, actual diversity, and the benefits of both"
 date:   2016-10-29 07:03:28 -0400
 categories: jekyll update
 ---
-pages 204-208 in [resilience](resiliencethebook.com) have two really fascinating cases that make two astounding points:
+pages 204-208 in [resilience](http://www.resiliencethebook.com) have two really fascinating cases that make two astounding points:
 
 cognitive diversity on a team can compensate for and even create better outcomes than intelligence on a team, and 
 actual diversity and cognitive diversity together can be mutually reinforcing and beneficial. 
